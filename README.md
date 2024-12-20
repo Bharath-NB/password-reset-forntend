@@ -42,6 +42,9 @@ A full-stack web application designed for secure user authentication and passwor
 
 ---
 
+## Backend repo URL: 
+- **Github**: https://github.com/Bharath-NB/password-reset-backend.git
+
 ## Deployment
 
 - **Frontend**: Deployed on [Netlify](https://password-reset-forntend-bharath.netlify.app/)
